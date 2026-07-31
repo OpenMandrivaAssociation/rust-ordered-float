@@ -5,8 +5,8 @@
 %global crate ordered-float
 
 Name:           rust-%{crate}
-Version:        1.0.2
-Release:        2%{?dist}
+Version:        5.3.0
+Release:        1%{?dist}
 Summary:        Wrappers for total ordering on floats
 
 # Upstream license specification: MIT
